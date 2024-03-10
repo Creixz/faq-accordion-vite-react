@@ -1,7 +1,7 @@
 .faq__wrapper{
   width: 100%;
   min-height: 100vh;
-  background: url(./background-pattern-desktop.svg);
+  background: url(/public/background-pattern-desktop.svg);
   background-position: top center;
   background-repeat: no-repeat;
   background-color: hsl(275, 100%, 97%);
