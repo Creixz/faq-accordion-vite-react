@@ -12,6 +12,14 @@ margin-bottom: 1.5rem;
     font-weight: 600;
 }
 
+.question__button:hover {
+    cursor: pointer;
+}
+
+.question__button:hover .question__text {
+    color: #AD28EB;
+}
+
 .question__icon {
     width: 30px;
     height: 30px;
