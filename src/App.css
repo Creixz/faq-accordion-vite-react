@@ -1,7 +1,7 @@
 .faq__wrapper{
   width: 100%;
   min-height: 100vh;
-  background: url(/public/background-pattern-desktop.svg);
+  background: url(/background-pattern-desktop.svg);
   background-position: top center;
   background-repeat: no-repeat;
   background-color: hsl(275, 100%, 97%);
@@ -14,6 +14,7 @@
   background-color: white;
   border-radius: 1rem;
   padding: 2.5rem;
+  margin: 1.5rem 0;
 }
 
 .faq__title {
@@ -35,7 +36,7 @@
 
 @media (max-width: 40rem) {
   .faq__container {
-    margin: 0 1.5rem;
+    margin: 1.5rem 1.5rem;
     padding: 1.5rem;
   }
 
